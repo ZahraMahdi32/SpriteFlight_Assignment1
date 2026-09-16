@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="Restart" name="RestartButton" style="font-size: 24px; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); height: 50px; align-self: center; align-items: center; justify-content: space-around; align-content: stretch; aspect-ratio: auto; position: absolute; right: 5%; left: 5%; top: 50px; bottom: auto;"/>
+    <ui:Label text="Score: 0" name="ScoreLabel" style="aspect-ratio: auto; color: rgb(255, 255, 255); top: 5%; left: 5%; bottom: auto;"/>
+</ui:UXML>
